@@ -1,0 +1,17 @@
+{
+    "name": "maria/php_quete_13_composer2",
+    "autoload": {
+        "psr-4": {
+            "Maria\\PhpQuete13Composer2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "t-aguirre",
+            "email": "tala.aguirre@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
